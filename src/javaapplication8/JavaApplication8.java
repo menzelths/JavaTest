@@ -24,8 +24,9 @@ public class JavaApplication8 {
         }
         
         for (int i=0;i<summe.length;i++){
-            System.out.println(summe[i]);
+            System.out.println(summe[i-1]);
             int c=54;
+            String b="Hallo!";
         }
             
     }
