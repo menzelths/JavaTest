@@ -27,7 +27,7 @@ public class JavaApplication8 {
             System.out.println(summe[i-1]);
             int c=54;
             String b="Hallo!";
-            String d="Super";
+            String d="Super2";
         }
             
     }
