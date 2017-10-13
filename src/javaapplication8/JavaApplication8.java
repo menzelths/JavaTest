@@ -32,6 +32,7 @@ public class JavaApplication8 {
             int f=7;
             for (int j=0;j<10;j++){
                 System.out.println("Super feature!");
+                System.out.println("Super Programm!");
             }
         }
             
