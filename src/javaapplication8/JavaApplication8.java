@@ -28,6 +28,11 @@ public class JavaApplication8 {
             int c=54;
             String b="Hallo!";
             String d="Super2";
+            int e=5;
+            int f=7;
+            for (int j=0;j<10;j++){
+                System.out.println("Super feature!");
+            }
         }
             
     }

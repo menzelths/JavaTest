@@ -11,4 +11,5 @@ package javaapplication8;
  */
 public class TestClas {
     int c=2;
+    int d=3; 
 }
